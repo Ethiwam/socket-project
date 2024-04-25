@@ -38,10 +38,10 @@ same sessions, so each line group of lines from the client matches with the grou
 in the server.
 
 ### Client
-![Image of Client Terminal]([http://url/to/](https://github.com/Ethiwam/socket-project/edit/main/client.png)
+![Image of Client Terminal](https://github.com/Ethiwam/socket-project/blob/main/client.png)
 
 ### Server
-![Image of Server Terminal]([http://url/to/](https://github.com/Ethiwam/socket-project/edit/main/server.png)
+![Image of Server Terminal](https://github.com/Ethiwam/socket-project/blob/main/server.png)
 
 Note: I could not test with a second computer. Unfortunately at time of creation, I live in an on-campus apartment and the wifi
 routers they gave us do not allow us to have two computers connect directly through IP. It
